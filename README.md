@@ -13,21 +13,20 @@ Exercise 1
 10. 8Queen problem
 
 Exercise 2
- 11. Water jug problem
- 12. Crypt arithmetic problem
- 13. Map coloring to implement CSP
- 14. A star algorithm
- 15. Travelling Salesman Problem(TSP)
- 16. Breath First Search(BFS)
- 17. Depth First Search(DFS)
- 18. Machineries & Cannibals problem
- 19. Tic Tac Toe problem
+11. Water jug problem
+12. Crypt arithmetic problem
+13. Map coloring to implement CSP
+14. A star algorithm
+15. Travelling Salesman Problem(TSP)
+16. Breath First Search(BFS)
+17. Depth First Search(DFS)
+18. Missionaries & Cannibals problem
+19. Tic Tac Toe problem
 
 Exercise 3
- Gaming programs,
-  20. Min-Max algorithm
-  21. Alpha-Beta pruning algorithm for gaming
-  22. Decision tree for restaurant or gaming
-  23. Feed-Forward neural networks
- Prolog programs,
-  
+Gaming programs,
+20. Min-Max algorithm
+21. Alpha-Beta pruning algorithm for gaming
+22. Decision tree for restaurant or gaming
+23. Feed-Forward neural networks
+Prolog programs,
