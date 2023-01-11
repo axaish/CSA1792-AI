@@ -28,3 +28,7 @@ Exercise 3
 2. Alpha-Beta pruning algorithm for gaming.
 3. Decision tree for restaurant or gaming.
 4. Feed-Forward neural networks.
+5. Prolog program to implement family tree.
+6. Prolog program to suggest a diet system.
+7. Prolog program for monkey-banana problem.
+8. Prolog program for fruit and its coloring problem.
