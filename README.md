@@ -23,12 +23,14 @@ Exercise 2
 8. Missionaries & Cannibals problem.
 9. Tic Tac Toe problem.
 
-Exercise 3
-1. Min-Max algorithm for gaming.
-2. Alpha-Beta pruning algorithm for gaming.
-3. Decision tree for restaurant or gaming.
+Exercise 3 (Gaming problems)
+1. Min-Max algorithm.
+2. Alpha-Beta pruning algorithm.
+3. Decision tree for restaurant.
 4. Feed-Forward neural networks.
-5. Prolog program to implement family tree.
-6. Prolog program to suggest a diet system.
-7. Prolog program for monkey-banana problem.
-8. Prolog program for fruit and its coloring problem.
+
+Exercise 4 (Prolog programs)
+1. Family tree.
+2. Diet suggesting system.
+3. Monkey-banana problem.
+4. Fruit and its coloring problem.
