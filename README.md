@@ -36,5 +36,5 @@ Exercise 4 (Prolog programs)
 4. Food suggestion.
 5. Student-Teacher.
 6. Car-Truck.
-7. Owns pets.
+7. Own pet and love.
 8. Medical diagnosis.
