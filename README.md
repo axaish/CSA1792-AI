@@ -33,4 +33,8 @@ Exercise 4 (Prolog programs)
 1. Family tree.
 2. Diet suggesting system.
 3. Monkey-banana problem.
-4. Fruit and its coloring problem.
+4. Food suggestion.
+5. Student-Teacher.
+6. Car-Truck.
+7. Owns pets.
+8. Medical diagnosis.
